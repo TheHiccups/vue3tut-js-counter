@@ -1,0 +1,17 @@
+body, .container{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.counterapp{
+text-align: center;
+}
