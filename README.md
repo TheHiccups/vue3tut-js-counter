@@ -2,7 +2,7 @@
 counter webapp made following Laith Academy course
 
 - [Laith Academy course](https://youtu.be/I_xLMmNeLDY)
-- built in vanilla js to compare same app built using Vue3 [HERE](https://github.com/TheHiccups/vue3tut-vue-counter)
+- built in vanilla js to compare [same app built using Vue3](https://github.com/TheHiccups/vue3tut-vue-counter)
 
 ## How to Run:
 - clone repo
